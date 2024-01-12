@@ -91,7 +91,7 @@ section {
 	display: flex;
 	width: 97px;
 	height: 20px;
-	background: url('/img/logo.png');
+	background: url('../img/logo.svg');
 	float: left;
 	transition: all 0.5s ease;
 }
